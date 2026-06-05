@@ -10,7 +10,7 @@ const pool = new Pool({
   port: parseInt(process.env.DB_PORT || '5432'),
   database: process.env.DB_NAME || 'sample_a',
   user: process.env.DB_USER || 'postgres',
-  password: process.env.DB_PASSWORD || 'Aditya@136',
+  password: process.env.DB_PASSWORD || 'aayushi@30',
 });
 
 async function columnExists(client: any, table: string, column: string): Promise<boolean> {

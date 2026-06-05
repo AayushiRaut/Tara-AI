@@ -65,7 +65,7 @@ DB_HOST=localhost
 DB_PORT=5432
 DB_NAME=sample_a
 DB_USER=postgres
-DB_PASSWORD=Aditya@136
+DB_PASSWORD=aayushi@30
 OLLAMA_API_KEY=your_key_here
 PORT=3000
 ```

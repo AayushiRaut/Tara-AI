@@ -4,6 +4,8 @@ Enterprise-grade mutual fund portfolio AI, powered by Ollama Cloud + PostgreSQL.
 
 ---
 
+## Demo Video for project working - https://youtu.be/9DXia-bZLKo
+
 ## Architecture
 
 ```
